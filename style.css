@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+*{
+    margin: 0px;
+}
+.side-margin{
+    padding: 0% 24%;
+}
+.display-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-width{
+    width: 41%;
+}
+.img-width{
+    width: 55%;
+}
+.margin-right{
+    margin-right: 4%;
+}
+.img-size{
+    width: 100%;
+}
+
+.heading-text{
+    font-size: 41px;
+}
+.pera-text{
+    font-size: 22px;
+    margin: 20px 0 40px 0;
+}
+.landkit-color{
+    color: blue;
+}
+.button-style1{
+    text-decoration: none;
+    color: rgb(119, 114, 114);
+    background-color: rgb(66, 64, 146);
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+.button-style2{
+    text-decoration: none;
+    color: rgb(28, 70, 161);
+    background-color: rgb(187, 186, 221);
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.block-width{
+    width: 32%;
+}
+.middle-div{
+    margin: 0 2%;
+}
+.margin-top{
+    margin-top: 100px;
+}
+.icon-size{
+    font-size: 40px;
+    color: rgb(25, 55, 187);
+}
+.block-heading{
+    margin: 20px 0;
+}
+.block-pera{
+    color: gray;
+}
+.sponsor{
+    display: flex;
+    margin: 50px 0;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+.sponsor div{
+    width: 20%;
+    color: gray;
+    padding: 50px 10px;
+}
